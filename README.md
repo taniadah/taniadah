@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=green&labelColor=101010)<br>
 
 ### CONTACTOS
-![Gmail]((https://img.shields.io/badge/taniadelangelh@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=red&labelColor=101010)<br>
+![Gmail](https://img.shields.io/badge/taniadelangelh@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=red&labelColor=101010)<br>
  
 
