@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Lenguajes utilizados: 
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=appveyor&logoColor=violet&labelColor=101010)<br>
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=101010)<br>
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010)<br>
-
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010)<br>
  
 
