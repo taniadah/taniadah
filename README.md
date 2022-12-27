@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, mi nombre es Tania del Angel 👋
 
 <!--
 **taniadah/taniadah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Donde encontrarme:  
-[Android](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
+### Lenguajes utilizados: 
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=appveyor?logoColor=violet?labelColor=101010)<\br>
  
 
