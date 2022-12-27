@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Lenguajes utilizados: 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=appveyor&logoColor=violet&labelColor=101010) <\br>
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=#3776AB&logoColor=blue&labelColor=101010) <\br>
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=appveyor&logoColor=violet&labelColor=101010)<\br>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010)<\br>
 
  
 
