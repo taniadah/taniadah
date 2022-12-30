@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=appveyor&logoColor=violet&labelColor=101010)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=101010)<br>
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010)<br>
+![reconstruccion](https://github.com/taniadah/Reconstruccion-de-imagen--AG/blob/main/Reconstruccion.gif)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=green&labelColor=101010)<br>
 ![Arduino](https://img.shields.io/badge/Arduino-informational?style=for-the-badge&logo=arduino&logoColor=informational&labelColor=101010)<br>
 
