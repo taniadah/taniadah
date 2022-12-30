@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ### Trabajos que podras encontrar
 ![reconstruccion](https://github.com/taniadah/Reconstruccion-de-imagen--AG/blob/main/Reconstruccion.gif)
+![sss](https://github.com/taniadah/Graficacion-con-python/blob/main/Animaciones/Morphing.gif)
 ![chat](https://github.com/taniadah/Chat_Cliente-Servidor/blob/main/Chat.gif)
 ![brazo](https://github.com/taniadah/Graficacion-con-python/blob/main/Animaciones/Brazo.gif)
 ![flores](https://github.com/taniadah/OpenCV_Tratamiento-de-imagenes/blob/main/Flores/Flores.gif)
