@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![Arduino](https://img.shields.io/badge/Arduino-informational?style=for-the-badge&logo=arduino&logoColor=informational&labelColor=101010)<br>
 
 ### Trabajos que podras encontrar
+![reconstruccion](https://github.com/taniadah/Reconstruccion-de-imagen--AG/blob/main/Reconstruccion.gif)
 ![chat](https://github.com/taniadah/Chat_Cliente-Servidor/blob/main/Chat.gif)
 ![brazo](https://github.com/taniadah/Graficacion-con-python/blob/main/Animaciones/Brazo.gif)
 ![flores](https://github.com/taniadah/OpenCV_Tratamiento-de-imagenes/blob/main/Flores/Flores.gif)
