@@ -49,8 +49,9 @@ Next, I present a simple example of how Sockets work in Java to send messages.<b
 Este GIF ilustra los principios de un brazo robótico. En este caso, se trabajó en dos dimensiones, mostrando cómo se mueve el brazo a través de los slicers y los ángulos que se manejan.<br>
 This GIF illustrates the principles of a robotic arm. In this case, the work is done in two dimensions, showing how the arm moves through slicers and the angles it handles.<br>
 ![brazo](https://github.com/taniadah/Graficacion-con-python/blob/main/Animaciones/Brazo.gif) <br>
-A continuación, te presento un trabajo sobre tratamiento de imágenes, donde se resalta un color específico, en este caso, el rojo. Cabe destacar que en el código no se usan librerías como OpenCV, sino que se realiza un proceso manual.<br>
-Next, I showcase an image processing project, where a specific color—in this case, red—is highlighted. It's important to note that the code doesn't use libraries like OpenCV, but instead employs a manual process.<br>
+A continuación, te presento un trabajo sobre tratamiento de imágenes, en el cual se resalta un color específico, en este caso, el rojo. Es importante destacar que, en el código, no se utilizan algunas funciones de OpenCV, como la binarización, sino que se llevan a cabo "procesos manuales".<br>
+Next, I present an image processing project, where a specific color—in this case, red—is highlighted. It's important to note that the code doesn't use certain OpenCV functions, such as binarization, but instead employs "manual processes".
+<br>
 ![flores](https://github.com/taniadah/OpenCV_Tratamiento-de-imagenes/blob/main/Flores/Flores.gif) <br>
 Este GIF muestra un ejemplo de hilos (threads) en Java, donde cada hilo maneja un carril en una carrera de caballos.<br>
 This GIF presents an example of threads in Java, where each thread manages a lane in a horse race.<br>
