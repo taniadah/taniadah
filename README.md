@@ -35,12 +35,29 @@ Hey there! Welcome to my GitHub. My name is Tania, though some people call me "T
 
 
 ### Trabajos que podras encontrar
-![reconstruccion](https://github.com/taniadah/Reconstruccion-de-imagen--AG/blob/main/Reconstruccion.gif)
-![sss](https://github.com/taniadah/Graficacion-con-python/blob/main/Animaciones/Morphing.gif)
-![chat](https://github.com/taniadah/Chat_Cliente-Servidor/blob/main/Chat.gif)
-![brazo](https://github.com/taniadah/Graficacion-con-python/blob/main/Animaciones/Brazo.gif)
-![flores](https://github.com/taniadah/OpenCV_Tratamiento-de-imagenes/blob/main/Flores/Flores.gif)
-![carreras](https://github.com/taniadah/CarreraDeCaballos_Java/blob/main/Carreras.gif)
+En el siguiente GIF puedes observar la reconstrucción de una imagen utilizando óvalos, realizada mediante un algoritmo genético.<br>
+In the following GIF, you can see the reconstruction of an image using ovals, achieved through a genetic algorithm. <br>
+
+![reconstruccion](https://github.com/taniadah/Reconstruccion-de-imagen--AG/blob/main/Reconstruccion.gif) <br>
+
+Este GIF muestra un proceso de morphing, que consiste en transformar una figura en otra mediante el uso de puntos y operaciones específicas.<br>
+This GIF demonstrates a morphing process, which involves transforming one figure into another using points and specific operations.<br>
+![sss](https://github.com/taniadah/Graficacion-con-python/blob/main/Animaciones/Morphing.gif) <br>
+A continuación, te muestro un ejemplo simple de cómo funciona el uso de Sockets en Java para enviar mensajes.<br>
+Next, I present a simple example of how Sockets work in Java to send messages.<br>
+![chat](https://github.com/taniadah/Chat_Cliente-Servidor/blob/main/Chat.gif) <br>
+Este GIF ilustra los principios de un brazo robótico. En este caso, se trabajó en dos dimensiones, mostrando cómo se mueve el brazo a través de los slicers y los ángulos que se manejan.<br>
+This GIF illustrates the principles of a robotic arm. In this case, the work is done in two dimensions, showing how the arm moves through slicers and the angles it handles.<br>
+![brazo](https://github.com/taniadah/Graficacion-con-python/blob/main/Animaciones/Brazo.gif) <br>
+A continuación, te presento un trabajo sobre tratamiento de imágenes, donde se resalta un color específico, en este caso, el rojo. Cabe destacar que en el código no se usan librerías como OpenCV, sino que se realiza un proceso manual.<br>
+Next, I showcase an image processing project, where a specific color—in this case, red—is highlighted. It's important to note that the code doesn't use libraries like OpenCV, but instead employs a manual process.<br>
+![flores](https://github.com/taniadah/OpenCV_Tratamiento-de-imagenes/blob/main/Flores/Flores.gif) <br>
+Este GIF muestra un ejemplo de hilos (threads) en Java, donde cada hilo maneja un carril en una carrera de caballos.<br>
+This GIF presents an example of threads in Java, where each thread manages a lane in a horse race.<br>
+![carreras](https://github.com/taniadah/CarreraDeCaballos_Java/blob/main/Carreras.gif) <br>
+
+
+
 
 ### CONTACTOS
 ![Gmail](https://img.shields.io/badge/taniadelangelh@gmail.com-red?style=flat&logo=gmail&logoColor=red&labelColor=101010)<br>
